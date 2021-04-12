@@ -1,0 +1,22 @@
+{
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-mongo": "^3.2.0",
+    "cors": "^2.8.5",
+    "express-cors": "0.0.3",
+    "express-session": "^1.17.1",
+    "express.js": "^1.0.0",
+    "mongoose": "^5.11.4",
+    "node.js": "0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
